@@ -1,5 +1,5 @@
 import icons from '../../img/icons.svg';
-import { Fraction } from 'fractional';
+import Fraction from './fractional.js';
 import { mark } from 'regenerator-runtime';
 import { View } from './View';
 
